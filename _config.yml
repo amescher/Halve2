@@ -1,7 +1,7 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
-url: https://taylantatli.github.io/Halve
+title: Deliberate Growth
+description: Writings and Web Home of Andrew
+url: https://amescher.github.io/Halve2
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -29,15 +29,15 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
+email:             andrew@amescher.com
 #google.plus:        username
-twitter:            username
+twitter:            andrewescher
 #facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+github:             amescher
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin:          andrewescher
 #xing:              username
-#instagram:          username
+instagram:          aintnobodyescher
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
@@ -51,8 +51,8 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #codepen:           username
 #keybase:           username
 #xmpp:              username@server.com
-#hackernews:        username
-behance:           username
+hackernews:        artistry121
+#behance:           username
 
 # Gems
 gems:
