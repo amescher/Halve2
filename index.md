@@ -1,10 +1,12 @@
 ---
 layout: home
 ---
-# About Theme
+# About
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+Hi, I'm Andrew. 
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+I build systems and advise companies on building systems for growth as a Strategist at The Ronin Society. I'm a partner at Konara Homes and am interested in creating a society of owners through what I call the _Equity Economy_.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+You can learn more about my projects and work (and figure out how to work with me) on the projects page or read my readings on the posts page. Also, highly recommend you sign up for the newsletter. It comes out about quarterly and has a ton of great information.
+
+Otherwise feel free to connect. I use Twitter and Email mostly and also am a member of Couchsurfing.
