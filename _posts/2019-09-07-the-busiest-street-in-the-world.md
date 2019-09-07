@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "The Busiest Street in the World"
+date:   2019-09-07
+excerpt: "It's something uniquely Japanese..."
 categories:
   - Travel
   - Casual
