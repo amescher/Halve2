@@ -427,7 +427,7 @@ canvas {
     }
   }
   p {
-    color: $overlay-color;
+    color: darken($white, 40);
     font-size: 16px;
     margin: 10px 0;
     padding-top: 0;
@@ -552,9 +552,9 @@ canvas {
     color: rgba($overlay-color, 0.7);
   }
   p {
-    font-size: 16px;
+    font-size: 18px;
     line-height: 1.6;
-    color: $overlay-color;
+    color: #6c6c6c;
     margin-bottom: 1.3em;
   }
   small {
