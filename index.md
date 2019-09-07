@@ -3,9 +3,9 @@ layout: home
 ---
 # About
 
-Hi, I'm Andrew. 
-
-I build systems and advise companies on building systems for growth as a Strategist at The Ronin Society. 
+Hi, I'm Andrew.
+--
+I build systems and advise companies on building systems for growth as a Strategist at The Ronin Society.
 
 I'm a partner at Konara Homes and am interested in creating a society of owners through what I call the _Equity Economy_.
 
