@@ -1,6 +1,6 @@
 # Site
 title: Deliberate Growth
-description: Writings and Web Home of Andrew
+description: Writings and Web Home of Andrew Escher
 url: https://amescher.github.io/Halve2
 logo: halve.png                                       # Site logo
 locale: en_US
@@ -28,7 +28,7 @@ sass:
 # Google Analytics
 #google-analytics: UA-XXXXX-Y
 
-# Social Links
+Social Links
 email:             andrew@amescher.com
 #google.plus:        username
 twitter:            andrewescher
