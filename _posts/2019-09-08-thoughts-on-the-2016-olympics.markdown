@@ -2,10 +2,26 @@
 layout: post
 title: "Thoughts on the 2016 Olympics"
 date: "2019-09-08 10:41:43 +0900"
+excerpt: "Everything the competitors do takes immense practice and talent..."
+categories:
+  - Success
+  - Society
+  - Media
+tags:
+  - Travel
+  - Olympics
+  - Sports
+  - Performance
+  - Race
 ---
 
+## Thoughts on Olympians (2016)
+I'm just getting ready to leave Tokyo and while here I've noticed a lot of it's preparation for the 2020 Olympics. Surprisingly, I found an article I wrote at the time of the 2016 Olympics... So here's that post in full.
+
+(Originally Written in 2016)
+
 While watching the Olympics last night I noticed a few things:
-1. Everything the competitors do takes immense talent
+1. Everything the competitors do takes immense practice and talent
 2. 95% of the competitors (at least on American TV) get completely ignored
 3. The newscasters and watching public is everpresent and evercritical and presents a narrative for the olympians to fit into - rather than allowing their own story to be told.
 
